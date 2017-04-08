@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'APAXPageControl'
-  s.version          = '0.1.1'
+  s.version          = '0.1.0'
   s.summary          = 'An easy to implement iOS page control'
  
   s.description      = <<-DESC
